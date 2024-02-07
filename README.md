@@ -1,5 +1,5 @@
 # update check Unity
-for cafebazaar.ir and myket.ir store
+for android stores: cafebazaar.ir and myket.ir
 
 contain c# code and aar plugin for check if your game's update exist in store from unity side
 
