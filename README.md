@@ -9,7 +9,7 @@ contain c# code and aar plugin for check if your game's update exist in store fr
  
  2.build your project 
  
- and UpdateAppCheck.cs try to check update by a service conection to store.
+ 3.run game on android device and UpdateAppCheck.cs try to check update by a service conection to store.
 
  [Give me a feedback if it was useful for you]
  
