@@ -11,7 +11,7 @@ contain c# code and aar plugin for check if your game's update exist in store fr
  
  and UpdateAppCheck.cs try to check update by a service conection to store.
 
- [if useful give me some feed back]
+ [Give me a feedback if it was useful for you]
  
  by sam / unides group
  
